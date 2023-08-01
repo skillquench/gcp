@@ -1,3 +1,9 @@
 hi welcome to first()this contets by feature branch edition after mergeing )by main/feature bramch
+ HEAD
 
 this line is addded by main branch and pushed
+=======
+this line is by feature branch 
+this line also by feature branch
+i am going ti merge this barnach to main later
+>>>>>>> feature
