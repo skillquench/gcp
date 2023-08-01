@@ -1,1 +1,4 @@
 hi welcome to first()this contets by feature branch edition after mergeing )by main/feature bramch
+this line is by feature branch 
+this line also by feature branch
+i am going ti merge this barnach to main later
